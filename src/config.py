@@ -15,3 +15,8 @@ BOOK_TITLES = {
     "evangelho-espritismo": "O Evangelho segundo o Espiritismo",
     "livro-dos-mediuns": "O Livro dos Médiuns",
 }
+
+CHAT_MODEL = "llama3.2:3b"
+
+TOP_K = 4
+MAX_DISTANCE = 0.7
